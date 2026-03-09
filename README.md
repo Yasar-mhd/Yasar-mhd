@@ -16,7 +16,6 @@
 - 💻 Passionate about **Backend Development**  
 - ☕ Specialized in **Java & Spring Boot**  
 - 🌱 Currently learning **Advanced Backend & System Design**  
-- 🚀 Goal: Become a **Full Stack Developer**
 
 </td>
 
