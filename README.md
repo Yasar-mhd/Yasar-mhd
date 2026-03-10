@@ -38,6 +38,7 @@
 <img src="https://skillicons.dev/icons?i=html" height="55"/>
 <img src="https://skillicons.dev/icons?i=css" height="55"/>
 <img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="55"/>
 <img src="https://skillicons.dev/icons?i=idea" height="55"/>
 
