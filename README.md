@@ -6,22 +6,23 @@
 </p>
 
 ---
+
 <table>
 <tr>
 <td>
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science Student  
-- 💻 Passionate about **Backend Development**  
-- ☕ Specialized in **Java & Spring Boot**  
-- 🌱 Currently learning **Advanced Backend & System Design**  
+* 🎓 Computer Science Student
+* 💻 Passionate about **Backend Development**
+* ☕ Specialized in **Java & Spring Boot**
+* 🌱 Currently learning **Advanced Backend & System Design**
 
 </td>
 
 <td>
 
-<img allign="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 </td>
 </tr>
@@ -50,7 +51,7 @@
 
 <p align="left">
 
-<a href="www.linkedin.com/in/yasarmhd">
+<a href="https://www.linkedin.com/in/yasarmhd">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
