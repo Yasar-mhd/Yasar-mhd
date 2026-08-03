@@ -70,15 +70,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170"
-     src="https://github-readme-stats.vercel.app/api?username=Yasar-mhd&show_icons=true&theme=tokyonight&hide_border=true"
-     alt="Yasar's GitHub Stats" />
-
-<img height="170"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasar-mhd&layout=compact&theme=tokyonight&hide_border=true"
-     alt="Yasar's Top Languages" />
-
+  <img src="./profile/stats.svg" height="170" alt="Yasar's GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="170" alt="Yasar's Top Languages"/>
 </p>
 
 ---
