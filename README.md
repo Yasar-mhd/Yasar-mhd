@@ -50,7 +50,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/yasar-mahmood007/">
+<a href="www.linkedin.com/in/yasarmhd">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
