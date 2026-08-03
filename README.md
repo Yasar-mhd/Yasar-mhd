@@ -70,8 +70,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" alt="Yasar's GitHub Stats"/>
-  <img src="./profile/top-langs.svg" height="170" alt="Yasar's Top Languages"/>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Yasar-mhd&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Yasar-mhd&layout=donut&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Yasar-mhd&layout=donut&langs_count=4&theme=transparent)
+
 </p>
 
 ---
